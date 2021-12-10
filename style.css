@@ -1,0 +1,63 @@
+      * {
+            margin: 0%;
+            padding: 0%;
+        }
+
+        body {
+            text-align: center;
+            margin: 90px;
+            margin-top: 5px;
+        }
+
+        #image {
+            
+            text-align: center;
+        }
+
+        #nav {
+            margin: 0px;
+            text-align: center;
+            background-color: #EEEEEE;
+        }
+
+        #table1 {
+            display: inline-block;
+        }
+
+        #table1 td {
+            display: block;
+        }
+
+        #table2 {
+            text-align: center;
+            display: inline-block;
+        }
+
+        a {
+            color: blue;
+        }
+
+        .group1 {
+           width: 10%;
+            padding: 2px; 
+            background: #7EE5DA;
+        }
+
+        .group2 {
+            width: 5%;
+            padding: 2px;
+            font-size: 13px;
+            background: #70CCC2;
+        }
+
+        .group3 {
+            width: 10%;
+            padding: 2px;
+            font-size: 13px;
+            background: #62B3AA;
+        }
+
+        footer {
+            margin: 5px;
+            font-size: 13px;
+        }
